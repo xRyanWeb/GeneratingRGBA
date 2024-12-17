@@ -1,0 +1,14 @@
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\bin\Debug\net9.0\RandomHexCodeGenerator.exe
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\bin\Debug\net9.0\RandomHexCodeGenerator.deps.json
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\bin\Debug\net9.0\RandomHexCodeGenerator.runtimeconfig.json
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\bin\Debug\net9.0\RandomHexCodeGenerator.dll
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\bin\Debug\net9.0\RandomHexCodeGenerator.pdb
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\obj\Debug\net9.0\RandomHexCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\obj\Debug\net9.0\RandomHexCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\obj\Debug\net9.0\RandomHexCodeGenerator.AssemblyInfo.cs
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\obj\Debug\net9.0\RandomHexCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\obj\Debug\net9.0\RandomHexCodeGenerator.dll
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\obj\Debug\net9.0\refint\RandomHexCodeGenerator.dll
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\obj\Debug\net9.0\RandomHexCodeGenerator.pdb
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\obj\Debug\net9.0\RandomHexCodeGenerator.genruntimeconfig.cache
+C:\Users\Ryan\RiderProjects\RandomHexCodeGenerator\RandomHexCodeGenerator\obj\Debug\net9.0\ref\RandomHexCodeGenerator.dll
